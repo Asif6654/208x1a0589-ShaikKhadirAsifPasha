@@ -1,0 +1,16 @@
+.Button {
+    width: 100%;
+    height: 100%;
+    padding: 6px;
+    background-color: rgba(18, 19, 12, 0.863);
+    border-radius: 7px;
+    margin-inline: auto;
+    color: rgba(215, 218, 198, 0.938);
+    font-weight: 1000;
+    font-size: 1.3rem;
+}
+
+.Button:hover {
+    opacity: 0.9;
+    background-color: gray;
+}

@@ -1,0 +1,27 @@
+.Card {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    border-radius: 1rem; 
+    box-shadow: 7px 9px 10px rgb(143, 121, 121);
+    margin: 0.5rem;
+    background-color: rgba(194, 204, 135, 0.938);
+    height: fit-content;
+}
+
+.Card img {
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.Card h1 {
+    margin: 3% 34% 0 34%;
+    color: rgb(47, 61, 56);
+}
+
+.Card p {
+    margin: 4% 3% 4% 8%;
+    font-size: 1.2rem;
+    font-weight: 450;
+    color: rgba(40, 65, 24, 0.884);
+}
